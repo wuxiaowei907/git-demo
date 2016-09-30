@@ -5,3 +5,6 @@ test diff ignore space
 
 b2-compare first commit ,and confilce should happen
 for branch compare
+for branch compare for compare with master
+
+for testing fix issue
